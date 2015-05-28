@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<MassUploadRequest xmlns="http://assis.ru/ws/api" timestamp="1432799347000">
+    <object externalId="36380" publish="true">
+        <request xsi:type="BusinessRentRequestType" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <common commission="0" commissionType="PERCENT" currency="RUR" description="Офис 150 м Невский, 128
+Без комиссии
+Все коммуникации. 1 этаж. 2 входа." distanceToMetro="2" distanceType="WALK" districtId="49" districtName="Центральный" name="Офис 150 м Невский, 128" ownership="AGENT" price="500000" priceType="MONTH" square="150.0" videoUrl="">
+                <address dom="20">
+                    <street cityCode="7800000000000" regionCode="7800000000000" streetCode="78000000000088500" xsi:type="StringStreetType">
+                        <region type="г">Санкт-Петербург</region>
+                        <part type="г">Санкт-Петербург</part>
+                        <part type="пр-кт">Невский</part>
+                    </street>
+                    <coordinates lat="59.937012" lon="30.314566"/>
+                </address>
+                <photos description="" url="/photo/6696087/ORIGINAL.jpg"/>
+                <photos description="" url="/photo/6696088/ORIGINAL.jpg"/>
+                <contactInfo email="demo@zipal.ru" name="Ирина" phone="71111111111"/>
+            </common>
+            <specific buildingType="MIXED_COMPLEX" businessUsageType="RETAIL" floorNumber="1" objectCondition="READY" parkingType="ON_GROUND" sublease="false" vatIncluded="false">
+                <feature>CLOCK_ACCESS</feature>
+            </specific>
+        </request>
+    </object>
+    <object externalId="124" publish="true">
+        <request xsi:type="FlatSellRequestType" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <common commission="50" commissionType="PERCENT" currency="RUR" description="Данное объявление размещено собственником:
+
+Освобождается квартира для аренды;
+
+- Фотографии настоящие;
+
+- Да, я собственник;
+
+- Красивая;
+
+- Тихо - окна выходят во двор и на ул. Нигматуллина;
+
+- Площадь 100 м2;
+
+- Кондиционеры во всех комнатах;
+
+- Два туалета;
+
+- Стиральная и посудомоечная машины, ;
+
+- Кухонный гарнитур;
+
+- Кухня объединена с лоджией, установлена алюминиевая рама от пола до потолка;
+
+- Подогрев полов в туалетах и на кухне;
+
+- Спутниковое ТВ - HotBird и НТВ плюс в каждой комнате; приставка для просмотра телеканала Дождь;
+
+- Интернет-радиоприемник (BBC, радио Свобода ...);
+
+- Городской телефон, быстрый интернет;
+
+- Сигнализация;
+
+- Меблирована;
+
+- Нагреватель воды установлен в систему водоснабжения на случай отключения горячей воды;
+
+- Вторая лоджия обустроена для отдыха - журнальным столик и два кресла;
+
+- Огороженная и охраняемая территория двора;
+
+- Во дворе детский сад;
+
+- Добротный ремонт;
+
+- 7 этаж из девяти;
+
+- Входная дверь с дополнительной шумоизоляцией.
+
+Только с залогом, долгосрочная аренда, возможно организации.
+
+Объявление размещено собственником.
+
+Премия риэлотру в случае заключения договора.
+
+Этот же телефон, что указан, можно писать на Whatsup.
+
+Дополнительные фотографии по запросу.
+
+Возможен торг.
+
+Если телефон недоступен, прошу написать через форму обратной связи или на whatsup.
+
+С уважением,
+
+Александр" distanceToMetro="6" distanceType="TRANSPORT" districtId="5" districtName="Северо-восток" name="Двухкомнатная квартира с евроремонтом" ownership="AGENT" price="9000000" square="55.0" subDistrictId="124" subDistrictName="Ярославский" videoUrl="">
+                <address dom="127">
+                    <street cityCode="7700000000000" regionCode="7700000000000" streetCode="77000000000322100" xsi:type="StringStreetType">
+                        <region type="г">Москва</region>
+                        <part type="г">Москва</part>
+                        <part type="ш">Ярославское</part>
+                    </street>
+                    <coordinates lat="55.876354" lon="37.716459"/>
+                </address>
+                <contactInfo email="demo@zipal.ru" name="Demo" phone="79164080536"/>
+            </common>
+            <specific buildingName="" credit="false" developer="" floorNumber="7" floorsNumber="10" kitchenSquare="10.0" material="BRICK" mortgage="false" renovation="EURO" roomsCount="3" roomsCountTotal="3" separatedRoomsCount="3" series="" type="FLAT" usefulSquare="40.0">
+                <feature>INTERNET</feature>
+                <feature>TELEPHONE</feature>
+                <feature>TV</feature>
+                <feature>INVALIDS</feature>
+                <feature>ELEVATOR</feature>
+                <feature>SERVICE_ELEVATOR</feature>
+                <feature>CONCIERGE</feature>
+                <feature>GUARDS</feature>
+                <feature>RUBBISH_CHUTE</feature>
+                <feature>GAS</feature>
+                <feature>FENCING</feature>
+            </specific>
+        </request>        
+    </object>
+    <object externalId="4757">
+        <request xsi:type="FlatRentRequestType" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <common commission="50" commissionType="PERCENT" currency="RUR" deposit="25000" description="Супер квартери" distanceToMetro="5" distanceType="WALK" districtId="9" districtName="Центр" name="" ownership="AGENT" period="LONG" price="45000" priceType="MONTH" square="60.0" subDistrictId="103" subDistrictName="Тверской" videoUrl="">
+                <address dom="10">
+                    <street cityCode="7700000000000" regionCode="7700000000000" streetCode="77000000000287700" xsi:type="StringStreetType">
+                        <region type="г">Москва</region>
+                        <part type="г">Москва</part>
+                        <part type="ул">Тверская</part>
+                    </street>
+                    <coordinates lat="55.762981" lon="37.608302"/>
+                </address>
+                <contactInfo email="demo@zipal.ru" name="Demo" phone="71111111111"/>
+            </common>
+            <specific floorNumber="7" floorsNumber="10" kitchenSquare="15.0" material="BRICK" maxPeople="6" roomsCount="2" roomsCountTotal="2" separatedRoomsCount="2" series="" type="FLAT" usefulSquare="30.0">
+                <feature>INTERNET</feature>
+                <feature>TELEPHONE</feature>
+                <feature>TV</feature>
+                <feature>INVALIDS</feature>
+                <feature>WASHING_MACHINE</feature>
+                <feature>FURNITURE</feature>
+                <feature>FRIDGE</feature>
+                <feature>WIRELESS_INTERNET</feature>
+                <feature>WITH_PETS</feature>
+                <feature>ELEVATOR</feature>
+                <feature>SERVICE_ELEVATOR</feature>
+                <feature>CONCIERGE</feature>
+                <feature>GUARDS</feature>
+                <feature>RUBBISH_CHUTE</feature>
+                <feature>FENCING</feature>
+                <feature>CONDITIONER</feature>
+            </specific>
+        </request>
+    </object>
+    <object externalId="34634">
+        <request xsi:type="FlatRentRequestType" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <common commission="50" commissionType="PERCENT" currency="RUR" deposit="25000" description="ОШИБКА ОШИБКА ОШИБКА Супер квартери" distanceToMetro="5" distanceType="WALK" districtId="9" districtName="Центр" name="" ownership="AGENT" period="LONG" price="45000" priceType="MONTH" square="60.0" subDistrictId="103" subDistrictName="Тверской" videoUrl="">
+                <address dom="10">
+                    <street cityCode="7700000000000" regionCode="7700000000000" streetCode="77000000000287700" xsi:type="StringStreetType">
+                        <region type="г">Москва</region>
+                        <part type="г">Москва</part>
+                        <part type="ул">Тверская</part>
+                    </street>
+                    <coordinates lat="55.762981" lon="37.608302"/>
+                </address>
+                <contactInfo email="demo@zipal.ru" name="Demo" phone="71111111111"/>
+            </common>
+            <specific floorNumber="7" floorsNumber="10" kitchenSquare="15.0" material="BRICK" maxPeople="6" roomsCount="2" roomsCountTotal="2" separatedRoomsCount="2" series="" type="FLAT" usefulSquare="30.0">
+                <feature>INTERNET</feature>
+                <feature>TELEPHONE</feature>
+                <feature>TV</feature>
+                <feature>INVALIDS</feature>
+                <feature>WASHING_MACHINE</feature>
+                <feature>FURNITURE</feature>
+                <feature>FRIDGE</feature>
+                <feature>WIRELESS_INTERNET</feature>
+                <feature>WITH_PETS</feature>
+                <feature>ELEVATOR</feature>
+                <feature>SERVICE_ELEVATOR</feature>
+                <feature>CONCIERGE</feature>
+                <feature>GUARDS</feature>
+                <feature>RUBBISH_CHUTE</feature>
+                <feature>FENCING</feature>
+                <feature>CONDITIONER</feature>
+            </specific>
+        </request>
+    </object>
+</MassUploadRequest>
